@@ -7,12 +7,12 @@
 - 💻 Passionate Java Backend Developer
 - 🌱 Currently learning Advanced Spring Boot
   and Microservices
-- 📍 Hyderabad, India
+- 📍 Karimnagar, Telangana, India
 
 ## 🎓 Education
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| B.Tech CSE | Sree Chaitanya Institute | 2022-2026 | 6.8 CGPA |
+| B.Tech CSE | Sree Chaitanya Institute | 2022-2026 | 6.99 CGPA |
 | Class XII | Alphores Junior College | 2020-2022 | 89% |
 | Class X | Crescent High School | 2020 | 10 CGPA |
 
@@ -47,7 +47,7 @@ Git | GitHub | Postman | IntelliJ IDEA
 - Developed secure banking application
 - Implemented Java Cryptography for security
 - Secure transaction management
-- **Tech Stack:** Java, Cryptography, MySQL
+- **Tech Stack:** Java, Servlets, JSP, JCE, PostgreSQL
 
 ## 📊 GitHub Stats
 ![Shankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarnakkala-17&show_icons=true&theme=radical)
@@ -55,8 +55,8 @@ Git | GitHub | Postman | IntelliJ IDEA
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shankarnakkala)
 
-📧 Email: shankarnakkala5@gmail.com
-📍 Location: Hyderabad, India
+📧 Email: shankarnakkala26@gmail.com
+📍 Location: Karimnagar, Telangana, India
 
 ---
 ⭐ **Open to Java Backend Developer opportunities!**
